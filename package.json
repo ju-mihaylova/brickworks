@@ -1,0 +1,15 @@
+{
+  "name": "brickwork",
+  "version": "1.0.0",
+  "description": "A console app that accepts input parameters for a given layout of bricks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zhasmina Mihaylova",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "prompt": "^1.1.0"
+  }
+}
